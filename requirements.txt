@@ -1,1 +1,14 @@
-
+streamlit
+sentence-transformers
+umap-learn
+scikit-learn
+networkx
+python-louvain
+plotly
+gensim
+pandas
+seaborn
+matplotlib
+faiss-cpu
+openai
+requests
